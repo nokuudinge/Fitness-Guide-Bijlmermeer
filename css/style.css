@@ -1,5 +1,6 @@
 h1 {
-    font-size: 36px
+    background-color: red;
+    color:white;
     ;}
 h2 {
     font-size: 30px
@@ -12,5 +13,7 @@ p {
     font-size: 16px;
     }
 h1.emphasis {color: brown;}
-
+section  {
+    display: gride;
+}
 img {max-width: 200px;}
